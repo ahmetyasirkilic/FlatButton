@@ -1,0 +1,9 @@
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CustomButton\CustomButton\bin\Debug\CustomButton.exe.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CustomButton\CustomButton\bin\Debug\CustomButton.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CustomButton\CustomButton\bin\Debug\CustomButton.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CustomButton\CustomButton\obj\Debug\CustomButton.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CustomButton\CustomButton\obj\Debug\CustomButton.Properties.Resources.resources
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CustomButton\CustomButton\obj\Debug\CustomButton.csproj.GenerateResource.Cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CustomButton\CustomButton\obj\Debug\CustomButton.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CustomButton\CustomButton\obj\Debug\CustomButton.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CustomButton\CustomButton\obj\Debug\CustomButton.Form1.resources
